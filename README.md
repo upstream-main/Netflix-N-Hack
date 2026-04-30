@@ -24,7 +24,7 @@ Any execution of unsigned or custom code is performed **solely at your own risk*
 >
 > Proceed only if you understand and accept these risks.
 
-Having issues? Let me know on [Discord](https://discord.gg/QMGHzzW89V)
+
 ---
 # Instructions
 
